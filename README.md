@@ -26,13 +26,13 @@ This project is a REST API that converts text or Markdown content into downloada
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/text-to-pdf-converter.git
+   git clone https://github.com/yourusername/pdfConverter.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd text-to-pdf-converter
+   cd pdfConverter
    ```
 
 3. Install the dependencies:
