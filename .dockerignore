@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Git files
+.git
+.gitignore
+
+# Environment variables
+.env
+
+# Generated PDFs
+public/pdfs/*
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
